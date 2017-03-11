@@ -1,0 +1,1 @@
+"use strict";jQuery(function(e){e("#Glide").glide({type:"carousel"}),e("#typed").typed({stringsElement:e("#typed-strings"),typeSpeed:0,backDelay:1900,loop:!0})});
